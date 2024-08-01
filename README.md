@@ -34,21 +34,23 @@ To run the app locally, follow these steps:
     python -m venv venv
     
 5. Activate the virtual environment:
+   
     On Windows:
-    ```bash
-    venv\Scripts\activate
+      ```bash
+      venv\Scripts\activate
+      
     On Mac:
-    ```bash
-    source venv/bin/activate
+      ```bash
+      source venv/bin/activate
     
-6. Install the required packages:
+7. Install the required packages:
     ```bash
     pip install -r requirements.txt
 
-7. Run the app:
+8. Run the app:
     ```bash
     streamlit run app.py
     
-8. Open your web browser and go to http://localhost:8501 to interact with the app.
+9. Open your web browser and go to http://localhost:8501 to interact with the app.
 
 
