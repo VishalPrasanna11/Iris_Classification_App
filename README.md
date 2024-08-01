@@ -29,16 +29,21 @@ To run the app locally, follow these steps:
     ```bash
     cd Iris_Classification_App
 3. Create a virtual environment:
-    python -m venv venv
-4. Activate the virtual environment:
+  ```bash
+   python -m venv venv
+5. Activate the virtual environment:
     On Windows:
+  ```bash
     venv\Scripts\activate
     On Mac:
-    source venv/bin/activate
-5. Install the required packages:
+  ```bash
+  source venv/bin/activate
+6. Install the required packages:
+  ```bash
     pip install -r requirements.txt
-6. Run the app:
+7. Run the app:
+```bash
     streamlit run app.py
-7. Open your web browser and go to http://localhost:8501 to interact with the app.
+8. Open your web browser and go to http://localhost:8501 to interact with the app.
 
 
