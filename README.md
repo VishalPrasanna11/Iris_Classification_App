@@ -36,11 +36,12 @@ To run the app locally, follow these steps:
 5. Activate the virtual environment:
    
   On Windows:
-      ```bash
+      ```
       venv\Scripts\activate
+      ```
       
   On Mac:   
-      ```bash
+      ```
       source venv/bin/activate
       ```
     
