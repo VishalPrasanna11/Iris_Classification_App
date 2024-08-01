@@ -39,10 +39,9 @@ To run the app locally, follow these steps:
       ```bash
       venv\Scripts\activate
       
-
-   On Mac:   
-    ```bash
-    source venv/bin/activate
+    On Mac:   
+      ```bash
+      source venv/bin/activate
     
 7. Install the required packages:
     ```bash
